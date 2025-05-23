@@ -26,7 +26,7 @@ Users receive real-time feedback on their password's strength, helping them crea
 
 🧑‍💻 How to Use
 1. Clone this repository:
-  git clone https://github.com/your-username/password-complexity-checker.git
+  https://github.com/CyberSayanta/CODECRAFT_CS_03.git
 2. Navigate to the project directory:
    cd password-complexity-checker
 3. Open the project in your favorite IDE and run the application.
